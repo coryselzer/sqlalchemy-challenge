@@ -11,5 +11,6 @@ In this challenge, we are analyzing climate data in Honolulu, Hawaii to properly
       - Defined objects (via @app.route) with proper terminology to created jsonified lists and dictionaries of our queries.
 > Images:
 - Climate Data Exploration
+  
   <img width="300" alt="Screenshot 2023-08-22 at 1 50 34 PM" src="https://github.com/coryselzer/sqlalchemy-challenge/assets/134936973/da0a048f-6fdc-4e57-974f-bf053f4a8ad5">
 
